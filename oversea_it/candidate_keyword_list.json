@@ -4,5 +4,20 @@
     },
     {
         "keyword" : "ubuntu"
+    },
+    {
+        "keyword" : "docker"
+    },
+    {
+        "keyword" : "AWS"
+    },
+    {
+        "keyword" : "powershell"
+    },
+    {
+        "keyword" : "programming"
+    },
+    {
+        "keyword" : "ruby"
     }
 ]
