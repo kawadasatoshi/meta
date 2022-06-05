@@ -1,15 +1,15 @@
 [
     {
+        "keyword" : "sql"
+    },
+    {
         "keyword" : "linux"
     },
     {
-        "keyword" : "ubuntu"
+        "keyword" : "AWS"
     },
     {
         "keyword" : "docker"
-    },
-    {
-        "keyword" : "AWS"
     },
     {
         "keyword" : "powershell"
